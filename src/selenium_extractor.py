@@ -5,13 +5,13 @@ from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.common.by import By
 
 
-class Extractor():
+class SeleniumExtractor():
     def __init__(self) -> None:
         pass
 
     def get_round_number(self, driver):
         round_element = driver.find_element(by=By.XPATH,value='//*[@id="classificacao__wrapper"]/section/nav/span[2]')
-        return int(round_element.text.split('ª')[0])
+        return round_element.text.split('ª')[0]
 
     def get_matches(self, driver):
         return driver.find_elements(by=By.CLASS_NAME,value="lista-jogos__jogo")
@@ -37,10 +37,10 @@ class Extractor():
         date_time = self.get_date_time(match)
         result = self.get_result(match)
         return {
-            'round':round_number,
-            'teams':teams,
-            'date_time':date_time,
-            'result':result,
+            'round': f"'{round_number}'",
+            'teams': f"'{teams}'",
+            'date_time': f"'{date_time}'",
+            'result': f"'{result}'",
         }
 
     def get_matches_info(self, matches, round_number):
@@ -51,18 +51,26 @@ class Extractor():
         print(f'Round: {round_number} | Captured matches: {len(matches_list)}')
         return matches_list
 
+    def resolve_url(self, championship):
+        championships_dict = {
+            "Campeonato Brasileiro Série A 2023":f'https://ge.globo.com/futebol/brasileirao-serie-a',
+            "Campeonato Brasileiro Série B 2023":f'https://ge.globo.com/futebol/brasileirao-serie-b',
+        }
+        return championships_dict[championship]
+    
     def get_championship_data(self, championship):
         # Initial parameters
-        url = f'https://ge.globo.com/futebol/{championship}/'
-        round_number = 0
+        url = self.resolve_championship(championship)
+        url = f'https://ge.globo.com/futebol/{self.championship}/'
+        round_number = ''
         all_matches_info = []
 
-        print(f'Getting data for {championship}')
+        print(f'Getting data for {self.championship}')
         with webdriver.Chrome(service=Service()) as gc:
             gc.minimize_window()
             gc.maximize_window()
             gc.get(url)
-            while round_number != 1:
+            while round_number != '1':
                 round_number = self.get_round_number(gc)
                 round_matches = self.get_matches(gc)
                 round_matches_info = self.get_matches_info(round_matches, round_number)
