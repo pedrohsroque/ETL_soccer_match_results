@@ -51,6 +51,7 @@ class RequestsExtractor():
     def resolve_url(self, championship, round_number):
         championships_dict = {
             "Campeonato Brasileiro Série A 2023":f'https://api.globoesporte.globo.com/tabela/d1a37fa4-e948-43a6-ba53-ab24ab3a45b1/fase/fase-unica-campeonato-brasileiro-2023/rodada/{round_number}/jogos/',
+            "Campeonato Brasileiro Série A 2022":f'https://api.globoesporte.globo.com/tabela/d1a37fa4-e948-43a6-ba53-ab24ab3a45b1/fase/fase-unica-campeonato-brasileiro-2022/rodada/{round_number}/jogos/',
             "Campeonato Brasileiro Série B 2023":f'https://api.globoesporte.globo.com/tabela/009b5a68-dd09-46b8-95b3-293a2d494366/fase/brasileiro-serie-b-2023-fase-unica/rodada/{round_number}/jogos/',
         }
         return championships_dict[championship]
@@ -64,7 +65,7 @@ class RequestsExtractor():
             round_matches = self.get_matches(round_number=str(round_number), championship=championship)
             round_matches_info = self.get_matches_info(round_matches, round_number)
             all_matches_info.extend( round_matches_info )
-            time.sleep(1)
+            time.sleep(0.2)
         return all_matches_info
 
     def save_data(self, data, championship):
