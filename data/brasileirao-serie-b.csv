@@ -1,361 +1,361 @@
 round,teams,date_time,result
-36,Vila Nova x Londrina,2023-11-10T19:00,
-36,Sport x Atlético-GO,2023-11-10T21:30,
-36,Ituano x Sampaio Corrêa,2023-11-11T15:30,
-36,Avaí x CRB,2023-11-11T17:00,
-36,Chapecoense x Botafogo-SP,2023-11-11T17:00,
-36,Tombense x Ponte Preta,2023-11-11T18:00,
-36,Ceará x Mirassol,2023-11-12T15:45,
-36,Novorizontino x Vitória,2023-11-12T18:00,
-36,Guarani x Criciúma,2023-11-14T19:00,
-36,ABC x Juventude,2023-11-14T21:30,
-35,Atlético-GO x Novorizontino,2023-11-01T20:00,2 x 2
-35,Mirassol x Sport,2023-11-03T19:00,2 x 1
-35,Juventude x Ituano,2023-11-03T21:30,2 x 1
-35,Londrina x Guarani,2023-11-03T21:30,0 x 0
-35,Ponte Preta x Avaí,2023-11-04T17:00,0 x 1
-35,Botafogo-SP x Ceará,2023-11-04T17:00,2 x 2
-35,Sampaio Corrêa x Tombense,2023-11-04T19:30,1 x 2
-35,Vitória x Vila Nova,2023-11-05T18:00,1 x 1
-35,CRB x Chapecoense,2023-11-07T19:00,3 x 2
-35,Criciúma x ABC,2023-11-07T21:30,1 x 0
-34,ABC x Avaí,2023-10-26T19:00,1 x 1
-34,Ceará x Sport,2023-10-27T19:00,2 x 1
-34,Guarani x Botafogo-SP,2023-10-27T21:30,0 x 1
-34,Novorizontino x Ponte Preta,2023-10-27T21:30,2 x 0
-34,Criciúma x Sampaio Corrêa,2023-10-28T15:30,3 x 0
-34,Ituano x Mirassol,2023-10-28T15:30,0 x 0
-34,Vila Nova x Atlético-GO,2023-10-28T19:00,2 x 1
-34,Londrina x CRB,2023-10-29T18:30,1 x 1
-34,Vitória x Juventude,2023-10-29T19:00,0 x 0
-34,Chapecoense x Tombense,2023-10-30T20:00,1 x 2
-33,Atlético-GO x ABC,2023-10-19T19:00,3 x 1
-33,Tombense x Vila Nova,2023-10-19T19:00,2 x 1
-33,Sampaio Corrêa x Vitória,2023-10-20T19:00,0 x 1
-33,Mirassol x Guarani,2023-10-20T21:30,0 x 0
-33,Botafogo-SP x Novorizontino,2023-10-21T17:00,2 x 0
-33,CRB x Criciúma,2023-10-21T17:00,0 x 1
-33,Juventude x Londrina,2023-10-21T18:00,2 x 2
-33,Avaí x Ceará,2023-10-22T18:00,1 x 0
-33,Sport x Chapecoense,2023-10-22T18:00,2 x 1
-33,Ponte Preta x Ituano,2023-10-23T20:00,0 x 0
-32,ABC x Mirassol,2023-10-10T21:30,1 x 2
-32,Vila Nova x Botafogo-SP,2023-10-11T21:30,3 x 1
-32,Criciúma x Chapecoense,2023-10-13T21:30,1 x 2
-32,Ituano x CRB,2023-10-14T17:00,0 x 0
-32,Novorizontino x Tombense,2023-10-14T17:00,0 x 0
-32,Ceará x Sampaio Corrêa,2023-10-14T18:30,0 x 0
-32,Ponte Preta x Atlético-GO,2023-10-15T15:45,0 x 2
-32,Vitória x Guarani,2023-10-15T18:00,2 x 0
-32,Londrina x Avaí,2023-10-15T18:30,1 x 1
-32,Juventude x Sport,2023-10-16T20:00,2 x 2
-31,Mirassol x Londrina,2023-10-03T19:30,2 x 0
-31,Chapecoense x ABC,2023-10-05T19:15,0 x 0
-31,Atlético-GO x Ituano,2023-10-06T21:30,1 x 0
-31,CRB x Ceará,2023-10-06T21:30,2 x 0
-31,Tombense x Juventude,2023-10-07T15:30,1 x 1
-31,Botafogo-SP x Avaí,2023-10-07T17:00,0 x 1
-31,Sampaio Corrêa x Novorizontino,2023-10-07T17:00,1 x 1
-31,Guarani x Vila Nova,2023-10-07T18:00,1 x 1
-31,Criciúma x Vitória,2023-10-08T18:00,1 x 0
-31,Sport x Ponte Preta,2023-10-09T20:00,3 x 3
-30,Mirassol x CRB,2023-09-28T19:00,1 x 0
-30,Londrina x Sampaio Corrêa,2023-09-28T21:30,1 x 0
-30,Avaí x Sport,2023-09-29T19:00,2 x 2
-30,Vitória x Tombense,2023-09-29T21:30,1 x 0
-30,Juventude x Criciúma,2023-09-30T15:30,1 x 0
-30,Guarani x Novorizontino,2023-09-30T17:00,2 x 1
-30,Ituano x Botafogo-SP,2023-09-30T17:00,1 x 1
-30,ABC x Ponte Preta,2023-09-30T18:00,2 x 0
-30,Vila Nova x Chapecoense,2023-10-01T15:45,0 x 0
-30,Ceará x Atlético-GO,2023-10-01T18:00,0 x 1
-29,Sampaio Corrêa x Vila Nova,2023-09-19T21:30,2 x 1
-29,Ponte Preta x Mirassol,2023-09-22T19:00,0 x 3
-29,Atlético-GO x Criciúma,2023-09-22T21:30,3 x 1
-29,Ituano x Vitória,2023-09-22T21:30,0 x 2
-29,Chapecoense x Ceará,2023-09-23T17:00,1 x 1
-29,CRB x Guarani,2023-09-23T17:00,1 x 0
-29,Tombense x Botafogo-SP,2023-09-23T18:00,0 x 0
-29,Sport x Londrina,2023-09-23T20:45,4 x 0
-29,Avaí x Juventude,2023-09-25T18:30,0 x 2
-29,Novorizontino x ABC,2023-09-25T21:00,2 x 1
-28,Londrina x Ituano,2023-09-14T18:30,2 x 2
-28,Vila Nova x Ponte Preta,2023-09-15T19:00,1 x 1
-28,ABC x Sport,2023-09-15T21:30,0 x 1
-28,Criciúma x Mirassol,2023-09-16T15:30,2 x 1
-28,Botafogo-SP x Atlético-GO,2023-09-16T17:00,1 x 0
-28,Sampaio Corrêa x Chapecoense,2023-09-16T17:00,2 x 0
-28,Juventude x CRB,2023-09-16T18:00,3 x 1
-28,Guarani x Tombense,2023-09-17T15:45,3 x 0
-28,Vitória x Avaí,2023-09-17T18:00,3 x 0
-28,Novorizontino x Ceará,2023-09-18T21:00,4 x 1
-27,Chapecoense x Guarani,2023-09-05T21:30,0 x 1
-27,Ceará x Londrina,2023-09-06T21:30,3 x 1
-27,Tombense x ABC,2023-09-07T18:30,3 x 0
-27,Ituano x Vila Nova,2023-09-08T18:00,1 x 2
-27,Ponte Preta x Sampaio Corrêa,2023-09-09T17:00,0 x 0
-27,Mirassol x Botafogo-SP,2023-09-09T20:30,1 x 0
-27,Sport x Criciúma,2023-09-09T20:45,3 x 3
-27,Atlético-GO x Juventude,2023-09-10T15:45,3 x 0
-27,CRB x Vitória,2023-09-10T18:00,6 x 0
-27,Avaí x Novorizontino,2023-09-11T20:30,1 x 0
-26,Novorizontino x Ituano,2023-08-30T19:00,2 x 0
-26,Juventude x Chapecoense,2023-08-31T21:30,0 x 0
-26,Vitória x Mirassol,2023-09-01T19:15,0 x 0
-26,Londrina x Tombense,2023-09-01T21:30,1 x 1
-26,Avaí x Atlético-GO,2023-09-02T15:30,0 x 2
-26,Ceará x Criciúma,2023-09-02T17:00,1 x 0
-26,ABC x Sampaio Corrêa,2023-09-02T17:00,1 x 1
-26,Guarani x Ponte Preta,2023-09-02T18:00,1 x 0
-26,Vila Nova x CRB,2023-09-03T15:45,0 x 1
-26,Botafogo-SP x Sport,2023-09-03T18:00,1 x 1
-25,Mirassol x Juventude,2023-08-22T19:00,0 x 1
-25,Criciúma x Vila Nova,2023-08-22T21:30,1 x 0
-25,Ponte Preta x Londrina,2023-08-25T19:00,1 x 0
-25,Sport x Ituano,2023-08-25T21:30,1 x 2
-25,Sampaio Corrêa x Guarani,2023-08-26T17:00,1 x 1
-25,Tombense x Ceará,2023-08-26T17:00,2 x 2
-25,CRB x Novorizontino,2023-08-26T18:00,1 x 0
-25,Chapecoense x Avaí,2023-08-27T15:45,0 x 0
-25,Atlético-GO x Vitória,2023-08-27T18:00,0 x 0
-25,Botafogo-SP x ABC,2023-08-28T20:00,0 x 0
-24,Londrina x Atlético-GO,2023-08-17T19:00,0 x 2
-24,Vila Nova x Mirassol,2023-08-17T21:30,2 x 0
-24,Vitória x Botafogo-SP,2023-08-18T19:00,2 x 0
-24,Guarani x Sport,2023-08-18T21:30,3 x 1
-24,Avaí x Tombense,2023-08-19T15:30,4 x 2
-24,Ituano x Criciúma,2023-08-19T17:00,3 x 0
-24,ABC x CRB,2023-08-19T17:00,1 x 2
-24,Juventude x Sampaio Corrêa,2023-08-19T18:00,0 x 0
-24,Novorizontino x Chapecoense,2023-08-20T15:45,1 x 2
-24,Ceará x Ponte Preta,2023-08-20T18:00,1 x 1
-23,Novorizontino x Mirassol,2023-08-11T19:00,2 x 1
-23,Tombense x Sport,2023-08-11T21:30,0 x 0
-23,Criciúma x Londrina,2023-08-12T15:30,2 x 0
-23,Botafogo-SP x Ponte Preta,2023-08-12T17:00,0 x 0
-23,Sampaio Corrêa x CRB,2023-08-12T17:00,1 x 1
-23,Vila Nova x Avaí,2023-08-12T18:00,1 x 1
-23,Chapecoense x Atlético-GO,2023-08-13T11:00,0 x 1
-23,Guarani x Juventude,2023-08-13T15:45,0 x 1
-23,Vitória x Ceará,2023-08-13T18:00,1 x 0
-23,ABC x Ituano,2023-08-14T20:00,1 x 1
-22,Mirassol x Sampaio Corrêa,2023-08-04T21:30,0 x 0
-22,Avaí x Criciúma,2023-08-05T15:30,1 x 0
-22,Ituano x Guarani,2023-08-05T17:00,1 x 1
-22,CRB x Botafogo-SP,2023-08-05T17:00,0 x 0
-22,Sport x Novorizontino,2023-08-05T18:00,1 x 0
-22,Ponte Preta x Chapecoense,2023-08-06T15:30,1 x 0
-22,Ceará x ABC,2023-08-06T18:00,1 x 0
-22,Juventude x Vila Nova,2023-08-07T18:00,0 x 2
-22,Atlético-GO x Tombense,2023-08-07T20:00,3 x 2
-22,Londrina x Vitória,2023-08-07T20:00,2 x 0
-21,Mirassol x Avaí,2023-08-01T19:00,2 x 2
-21,Sampaio Corrêa x Botafogo-SP,2023-08-01T19:00,0 x 0
-21,CRB x Atlético-GO,2023-08-01T21:30,2 x 1
-21,Criciúma x Ponte Preta,2023-08-02T19:00,2 x 1
-21,Ituano x Tombense,2023-08-02T19:00,1 x 0
-21,Guarani x Ceará,2023-08-02T21:30,0 x 0
-21,Vila Nova x Sport,2023-08-02T21:30,0 x 1
-21,Vitória x ABC,2023-08-02T21:30,2 x 0
-21,Juventude x Novorizontino,2023-08-02T21:30,1 x 0
-21,Londrina x Chapecoense,2023-08-02T21:30,1 x 1
-20,Ceará x Ituano,2023-07-28T19:00,1 x 1
-20,Sport x CRB,2023-07-28T21:30,2 x 0
-20,Chapecoense x Mirassol,2023-07-29T11:00,0 x 1
-20,Botafogo-SP x Juventude,2023-07-29T15:30,0 x 2
-20,Avaí x Guarani,2023-07-29T17:00,1 x 2
-20,ABC x Londrina,2023-07-29T17:00,0 x 0
-20,Atlético-GO x Sampaio Corrêa,2023-07-29T18:00,2 x 2
-20,Tombense x Criciúma,2023-07-30T11:00,2 x 2
-20,Novorizontino x Vila Nova,2023-07-30T15:30,3 x 1
-20,Ponte Preta x Vitória,2023-07-30T18:00,2 x 2
-19,CRB x Ponte Preta,2023-07-21T19:00,1 x 0
-19,Mirassol x Tombense,2023-07-22T15:30,2 x 0
-19,Vila Nova x ABC,2023-07-22T17:00,1 x 1
-19,Criciúma x Novorizontino,2023-07-22T17:00,0 x 1
-19,Ituano x Avaí,2023-07-22T18:00,0 x 1
-19,Guarani x Atlético-GO,2023-07-23T11:00,1 x 0
-19,Juventude x Ceará,2023-07-23T15:30,1 x 0
-19,Sampaio Corrêa x Sport,2023-07-23T18:00,1 x 2
-19,Vitória x Chapecoense,2023-07-24T19:00,1 x 0
-19,Londrina x Botafogo-SP,2023-07-24T19:00,1 x 2
-18,Botafogo-SP x Criciúma,2023-07-17T20:00,1 x 0
-18,Tombense x CRB,2023-07-18T18:00,2 x 1
-18,Chapecoense x Ituano,2023-07-18T19:00,1 x 0
-18,Ponte Preta x Juventude,2023-07-18T21:30,0 x 0
-18,Atlético-GO x Mirassol,2023-07-19T19:00,2 x 2
-18,Novorizontino x Londrina,2023-07-19T19:00,3 x 0
-18,Avaí x Sampaio Corrêa,2023-07-19T21:30,2 x 0
-18,Sport x Vitória,2023-07-19T21:30,1 x 2
-18,Ceará x Vila Nova,2023-07-19T21:30,1 x 0
-18,ABC x Guarani,2023-07-19T21:30,0 x 1
-17,Criciúma x Guarani,2023-07-13T20:00,1 x 1
-17,Atlético-GO x Sport,2023-07-14T21:30,3 x 1
-17,Sampaio Corrêa x Ituano,2023-07-14T21:30,0 x 0
-17,Juventude x ABC,2023-07-15T11:00,1 x 1
-17,Ponte Preta x Tombense,2023-07-15T17:00,0 x 1
-17,Londrina x Vila Nova,2023-07-15T17:00,1 x 0
-17,Mirassol x Ceará,2023-07-16T15:30,1 x 1
-17,Vitória x Novorizontino,2023-07-16T18:00,2 x 1
-17,CRB x Avaí,2023-08-23T19:00,1 x 1
-17,Botafogo-SP x Chapecoense,2023-08-23T21:30,1 x 2
-16,Novorizontino x Atlético-GO,2023-07-07T19:00,2 x 2
-16,Ceará x Botafogo-SP,2023-07-07T21:30,3 x 0
-16,Guarani x Londrina,2023-07-08T11:00,2 x 1
-16,ABC x Criciúma,2023-07-08T15:30,0 x 1
-16,Avaí x Ponte Preta,2023-07-08T17:00,0 x 1
-16,Ituano x Juventude,2023-07-08T17:00,1 x 1
-16,Tombense x Sampaio Corrêa,2023-07-08T18:00,0 x 1
-16,Chapecoense x CRB,2023-07-09T15:30,2 x 1
-16,Sport x Mirassol,2023-07-09T18:00,0 x 0
-16,Vila Nova x Vitória,2023-07-10T20:00,1 x 0
-15,Tombense x Chapecoense,2023-06-30T21:30,4 x 2
-15,Atlético-GO x Vila Nova,2023-07-01T16:00,1 x 1
-15,Avaí x ABC,2023-07-01T17:00,0 x 2
-15,Sampaio Corrêa x Criciúma,2023-07-01T17:00,0 x 2
-15,CRB x Londrina,2023-07-01T18:15,2 x 1
-15,Juventude x Vitória,2023-07-02T15:30,1 x 0
-15,Sport x Ceará,2023-07-02T18:00,2 x 0
-15,Ponte Preta x Novorizontino,2023-07-02T20:30,1 x 0
-15,Mirassol x Ituano,2023-07-03T18:00,0 x 1
-15,Botafogo-SP x Guarani,2023-07-03T20:15,1 x 0
-14,Criciúma x CRB,2023-06-27T19:00,2 x 1
-14,Chapecoense x Sport,2023-06-27T19:00,1 x 1
-14,Vila Nova x Tombense,2023-06-27T21:30,1 x 0
-14,Novorizontino x Botafogo-SP,2023-06-27T21:30,0 x 1
-14,Ceará x Avaí,2023-06-28T19:00,0 x 0
-14,ABC x Atlético-GO,2023-06-28T19:00,1 x 1
-14,Guarani x Mirassol,2023-06-28T21:30,2 x 1
-14,Ituano x Ponte Preta,2023-06-28T21:30,0 x 1
-14,Vitória x Sampaio Corrêa,2023-06-28T21:30,2 x 1
-14,Londrina x Juventude,2023-06-28T21:30,1 x 2
-13,CRB x Ituano,2023-06-21T19:00,2 x 2
-13,Sport x Juventude,2023-06-22T21:30,3 x 0
-13,Atlético-GO x Ponte Preta,2023-06-23T19:00,1 x 0
-13,Botafogo-SP x Vila Nova,2023-06-24T11:00,0 x 3
-13,Avaí x Londrina,2023-06-24T16:00,0 x 0
-13,Chapecoense x Criciúma,2023-06-24T17:00,1 x 1
-13,Tombense x Novorizontino,2023-06-24T18:15,1 x 2
-13,Mirassol x ABC,2023-06-25T11:00,3 x 2
-13,Sampaio Corrêa x Ceará,2023-06-25T15:30,1 x 1
-13,Guarani x Vitória,2023-06-25T18:00,2 x 0
-12,ABC x Chapecoense,2023-06-09T21:30,1 x 1
-12,Vila Nova x Guarani,2023-06-10T16:00,0 x 0
-12,Ituano x Atlético-GO,2023-06-10T17:00,1 x 1
-12,Novorizontino x Sampaio Corrêa,2023-06-10T17:00,1 x 0
-12,Ceará x CRB,2023-06-10T19:30,1 x 3
-12,Ponte Preta x Sport,2023-06-11T11:00,1 x 1
-12,Londrina x Mirassol,2023-06-11T11:00,1 x 2
-12,Avaí x Botafogo-SP,2023-06-11T15:30,1 x 1
-12,Vitória x Criciúma,2023-06-11T18:00,0 x 1
-12,Juventude x Tombense,2023-06-11T18:15,1 x 2
-11,Ponte Preta x ABC,2023-06-06T19:00,0 x 0
-11,Chapecoense x Vila Nova,2023-06-06T19:00,0 x 1
-11,Tombense x Vitória,2023-06-06T19:00,1 x 2
-11,Atlético-GO x Ceará,2023-06-06T21:30,0 x 3
-11,Botafogo-SP x Ituano,2023-06-06T21:30,0 x 2
-11,Novorizontino x Guarani,2023-06-07T19:00,1 x 0
-11,Sport x Avaí,2023-06-07T19:00,2 x 1
-11,Sampaio Corrêa x Londrina,2023-06-07T19:00,2 x 0
-11,CRB x Mirassol,2023-06-07T21:30,2 x 0
-11,Criciúma x Juventude,2023-06-08T16:00,0 x 1
-10,Botafogo-SP x Tombense,2023-06-02T19:00,0 x 0
-10,Ceará x Chapecoense,2023-06-02T19:00,2 x 0
-10,Criciúma x Atlético-GO,2023-06-02T21:30,3 x 0
-10,Vitória x Ituano,2023-06-02T21:30,3 x 0
-10,Juventude x Avaí,2023-06-03T16:00,3 x 2
-10,Mirassol x Ponte Preta,2023-06-03T17:00,1 x 0
-10,ABC x Novorizontino,2023-06-03T17:00,0 x 1
-10,Vila Nova x Sampaio Corrêa,2023-06-03T19:00,3 x 0
-10,Guarani x CRB,2023-06-04T15:30,0 x 1
-10,Londrina x Sport,2023-06-04T18:00,1 x 2
-9,Ituano x Londrina,2023-05-27T17:00,3 x 1
-9,CRB x Juventude,2023-05-27T17:00,1 x 2
-9,Avaí x Vitória,2023-05-27T17:30,1 x 1
-9,Atlético-GO x Botafogo-SP,2023-05-27T18:00,1 x 1
-9,Ponte Preta x Vila Nova,2023-05-28T11:00,1 x 0
-9,Mirassol x Criciúma,2023-05-28T15:30,1 x 0
-9,Ceará x Novorizontino,2023-05-28T15:30,0 x 3
-9,Sport x ABC,2023-05-28T18:00,4 x 1
-9,Tombense x Guarani,2023-05-28T18:15,1 x 1
-9,Chapecoense x Sampaio Corrêa,2023-05-29T20:00,0 x 1
-8,Botafogo-SP x Mirassol,2023-05-23T19:00,1 x 0
-8,Novorizontino x Avaí,2023-05-23T21:30,2 x 0
-8,ABC x Tombense,2023-05-23T21:30,1 x 0
-8,Vila Nova x Ituano,2023-05-24T19:00,1 x 0
-8,Vitória x CRB,2023-05-24T19:00,1 x 0
-8,Juventude x Atlético-GO,2023-05-24T19:00,3 x 0
-8,Londrina x Ceará,2023-05-24T19:00,1 x 3
-8,Guarani x Chapecoense,2023-05-24T21:15,3 x 3
-8,Criciúma x Sport,2023-05-24T21:30,1 x 0
-8,Sampaio Corrêa x Ponte Preta,2023-05-24T21:30,0 x 0
-7,Mirassol x Vitória,2023-05-19T19:00,2 x 0
-7,Tombense x Londrina,2023-05-19T19:00,0 x 2
-7,Atlético-GO x Avaí,2023-05-19T21:30,0 x 0
-7,Sport x Botafogo-SP,2023-05-20T16:00,3 x 0
-7,Ituano x Novorizontino,2023-05-20T17:00,0 x 2
-7,Sampaio Corrêa x ABC,2023-05-20T17:00,1 x 0
-7,Chapecoense x Juventude,2023-05-21T11:00,0 x 2
-7,Criciúma x Ceará,2023-05-21T15:30,1 x 2
-7,Ponte Preta x Guarani,2023-05-21T18:00,1 x 1
-7,CRB x Vila Nova,2023-05-21T18:15,0 x 3
-6,Vila Nova x Criciúma,2023-05-12T19:00,0 x 0
-6,Avaí x Chapecoense,2023-05-12T21:30,1 x 4
-6,Juventude x Mirassol,2023-05-13T16:00,0 x 1
-6,Guarani x Sampaio Corrêa,2023-05-13T17:00,2 x 0
-6,Novorizontino x CRB,2023-05-13T17:00,0 x 1
-6,Ceará x Tombense,2023-05-13T18:15,2 x 0
-6,Londrina x Ponte Preta,2023-05-14T15:30,3 x 0
-6,Vitória x Atlético-GO,2023-05-14T18:00,2 x 3
-6,ABC x Botafogo-SP,2023-05-14T18:00,1 x 2
-6,Ituano x Sport,2023-05-14T20:30,1 x 1
-5,Botafogo-SP x Vitória,2023-05-05T21:30,0 x 3
-5,Criciúma x Ituano,2023-05-06T16:00,2 x 1
-5,Mirassol x Vila Nova,2023-05-06T18:15,1 x 1
-5,Sampaio Corrêa x Juventude,2023-05-06T18:15,2 x 1
-5,Tombense x Avaí,2023-05-06T18:15,0 x 1
-5,Chapecoense x Novorizontino,2023-05-06T20:30,1 x 1
-5,CRB x ABC,2023-05-06T20:30,1 x 1
-5,Ponte Preta x Ceará,2023-05-07T11:00,0 x 0
-5,Sport x Guarani,2023-05-07T19:00,2 x 0
-5,Atlético-GO x Londrina,2023-05-08T20:00,2 x 1
-4,Londrina x Criciúma,2023-05-01T16:00,1 x 1
-4,Ponte Preta x Botafogo-SP,2023-05-02T19:00,2 x 0
-4,CRB x Sampaio Corrêa,2023-05-02T19:00,0 x 0
-4,Atlético-GO x Chapecoense,2023-05-02T21:30,2 x 1
-4,Ituano x ABC,2023-05-03T19:00,3 x 0
-4,Mirassol x Novorizontino,2023-05-03T19:00,0 x 2
-4,Juventude x Guarani,2023-05-03T19:00,1 x 0
-4,Avaí x Vila Nova,2023-05-03T21:15,0 x 3
-4,Ceará x Vitória,2023-05-10T19:00,0 x 2
-4,Sport x Tombense,2023-05-10T21:30,3 x 2
-3,Criciúma x Avaí,2023-04-28T19:00,1 x 0
-3,Vitória x Londrina,2023-04-28T19:00,2 x 0
-3,Guarani x Ituano,2023-04-28T21:30,1 x 0
-3,Sampaio Corrêa x Mirassol,2023-04-29T16:00,1 x 3
-3,Botafogo-SP x CRB,2023-04-29T17:00,2 x 0
-3,Chapecoense x Ponte Preta,2023-04-29T17:00,1 x 1
-3,Tombense x Atlético-GO,2023-04-29T18:15,1 x 1
-3,Novorizontino x Sport,2023-04-30T15:30,0 x 0
-3,ABC x Ceará,2023-04-30T18:00,1 x 2
-3,Vila Nova x Juventude,2023-04-30T18:15,1 x 0
-2,Atlético-GO x CRB,2023-04-21T16:30,2 x 1
-2,Botafogo-SP x Sampaio Corrêa,2023-04-21T19:00,1 x 0
-2,Ponte Preta x Criciúma,2023-04-21T21:30,1 x 2
-2,Tombense x Ituano,2023-04-22T11:00,3 x 0
-2,Avaí x Mirassol,2023-04-22T16:00,1 x 0
-2,Novorizontino x Juventude,2023-04-22T17:00,1 x 0
-2,Ceará x Guarani,2023-04-22T18:15,0 x 3
-2,Chapecoense x Londrina,2023-04-23T15:30,3 x 0
-2,ABC x Vitória,2023-04-23T18:00,0 x 3
-2,Sport x Vila Nova,2023-06-18T18:00,1 x 0
-1,Guarani x Avaí,2023-04-14T19:00,4 x 1
-1,Ituano x Ceará,2023-04-14T21:30,2 x 0
-1,Vila Nova x Novorizontino,2023-04-15T16:00,2 x 1
-1,Mirassol x Chapecoense,2023-04-15T17:00,1 x 0
-1,Sampaio Corrêa x Atlético-GO,2023-04-15T17:00,3 x 3
-1,Juventude x Botafogo-SP,2023-04-15T18:15,1 x 2
-1,Criciúma x Tombense,2023-04-16T11:00,2 x 0
-1,Londrina x ABC,2023-04-16T15:30,1 x 0
-1,Vitória x Ponte Preta,2023-04-16T18:00,3 x 0
-1,CRB x Sport,2023-07-05T19:00,2 x 0
+'36','Vila Nova x Londrina','2023-11-10T19:00','4 x 1'
+'36','Sport x Atlético-GO','2023-11-10T21:30','0 x 0'
+'36','Ituano x Sampaio Corrêa','2023-11-11T15:30',''
+'36','Avaí x CRB','2023-11-11T17:00',''
+'36','Chapecoense x Botafogo-SP','2023-11-11T17:00',''
+'36','Tombense x Ponte Preta','2023-11-11T18:00',''
+'36','Ceará x Mirassol','2023-11-12T15:45',''
+'36','Novorizontino x Vitória','2023-11-12T18:00',''
+'36','Guarani x Criciúma','2023-11-14T19:00',''
+'36','ABC x Juventude','2023-11-14T21:30',''
+'35','Atlético-GO x Novorizontino','2023-11-01T20:00','2 x 2'
+'35','Mirassol x Sport','2023-11-03T19:00','2 x 1'
+'35','Juventude x Ituano','2023-11-03T21:30','2 x 1'
+'35','Londrina x Guarani','2023-11-03T21:30','0 x 0'
+'35','Ponte Preta x Avaí','2023-11-04T17:00','0 x 1'
+'35','Botafogo-SP x Ceará','2023-11-04T17:00','2 x 2'
+'35','Sampaio Corrêa x Tombense','2023-11-04T19:30','1 x 2'
+'35','Vitória x Vila Nova','2023-11-05T18:00','1 x 1'
+'35','CRB x Chapecoense','2023-11-07T19:00','3 x 2'
+'35','Criciúma x ABC','2023-11-07T21:30','1 x 0'
+'34','ABC x Avaí','2023-10-26T19:00','1 x 1'
+'34','Ceará x Sport','2023-10-27T19:00','2 x 1'
+'34','Guarani x Botafogo-SP','2023-10-27T21:30','0 x 1'
+'34','Novorizontino x Ponte Preta','2023-10-27T21:30','2 x 0'
+'34','Criciúma x Sampaio Corrêa','2023-10-28T15:30','3 x 0'
+'34','Ituano x Mirassol','2023-10-28T15:30','0 x 0'
+'34','Vila Nova x Atlético-GO','2023-10-28T19:00','2 x 1'
+'34','Londrina x CRB','2023-10-29T18:30','1 x 1'
+'34','Vitória x Juventude','2023-10-29T19:00','0 x 0'
+'34','Chapecoense x Tombense','2023-10-30T20:00','1 x 2'
+'33','Atlético-GO x ABC','2023-10-19T19:00','3 x 1'
+'33','Tombense x Vila Nova','2023-10-19T19:00','2 x 1'
+'33','Sampaio Corrêa x Vitória','2023-10-20T19:00','0 x 1'
+'33','Mirassol x Guarani','2023-10-20T21:30','0 x 0'
+'33','Botafogo-SP x Novorizontino','2023-10-21T17:00','2 x 0'
+'33','CRB x Criciúma','2023-10-21T17:00','0 x 1'
+'33','Juventude x Londrina','2023-10-21T18:00','2 x 2'
+'33','Avaí x Ceará','2023-10-22T18:00','1 x 0'
+'33','Sport x Chapecoense','2023-10-22T18:00','2 x 1'
+'33','Ponte Preta x Ituano','2023-10-23T20:00','0 x 0'
+'32','ABC x Mirassol','2023-10-10T21:30','1 x 2'
+'32','Vila Nova x Botafogo-SP','2023-10-11T21:30','3 x 1'
+'32','Criciúma x Chapecoense','2023-10-13T21:30','1 x 2'
+'32','Ituano x CRB','2023-10-14T17:00','0 x 0'
+'32','Novorizontino x Tombense','2023-10-14T17:00','0 x 0'
+'32','Ceará x Sampaio Corrêa','2023-10-14T18:30','0 x 0'
+'32','Ponte Preta x Atlético-GO','2023-10-15T15:45','0 x 2'
+'32','Vitória x Guarani','2023-10-15T18:00','2 x 0'
+'32','Londrina x Avaí','2023-10-15T18:30','1 x 1'
+'32','Juventude x Sport','2023-10-16T20:00','2 x 2'
+'31','Mirassol x Londrina','2023-10-03T19:30','2 x 0'
+'31','Chapecoense x ABC','2023-10-05T19:15','0 x 0'
+'31','Atlético-GO x Ituano','2023-10-06T21:30','1 x 0'
+'31','CRB x Ceará','2023-10-06T21:30','2 x 0'
+'31','Tombense x Juventude','2023-10-07T15:30','1 x 1'
+'31','Botafogo-SP x Avaí','2023-10-07T17:00','0 x 1'
+'31','Sampaio Corrêa x Novorizontino','2023-10-07T17:00','1 x 1'
+'31','Guarani x Vila Nova','2023-10-07T18:00','1 x 1'
+'31','Criciúma x Vitória','2023-10-08T18:00','1 x 0'
+'31','Sport x Ponte Preta','2023-10-09T20:00','3 x 3'
+'30','Mirassol x CRB','2023-09-28T19:00','1 x 0'
+'30','Londrina x Sampaio Corrêa','2023-09-28T21:30','1 x 0'
+'30','Avaí x Sport','2023-09-29T19:00','2 x 2'
+'30','Vitória x Tombense','2023-09-29T21:30','1 x 0'
+'30','Juventude x Criciúma','2023-09-30T15:30','1 x 0'
+'30','Guarani x Novorizontino','2023-09-30T17:00','2 x 1'
+'30','Ituano x Botafogo-SP','2023-09-30T17:00','1 x 1'
+'30','ABC x Ponte Preta','2023-09-30T18:00','2 x 0'
+'30','Vila Nova x Chapecoense','2023-10-01T15:45','0 x 0'
+'30','Ceará x Atlético-GO','2023-10-01T18:00','0 x 1'
+'29','Sampaio Corrêa x Vila Nova','2023-09-19T21:30','2 x 1'
+'29','Ponte Preta x Mirassol','2023-09-22T19:00','0 x 3'
+'29','Atlético-GO x Criciúma','2023-09-22T21:30','3 x 1'
+'29','Ituano x Vitória','2023-09-22T21:30','0 x 2'
+'29','Chapecoense x Ceará','2023-09-23T17:00','1 x 1'
+'29','CRB x Guarani','2023-09-23T17:00','1 x 0'
+'29','Tombense x Botafogo-SP','2023-09-23T18:00','0 x 0'
+'29','Sport x Londrina','2023-09-23T20:45','4 x 0'
+'29','Avaí x Juventude','2023-09-25T18:30','0 x 2'
+'29','Novorizontino x ABC','2023-09-25T21:00','2 x 1'
+'28','Londrina x Ituano','2023-09-14T18:30','2 x 2'
+'28','Vila Nova x Ponte Preta','2023-09-15T19:00','1 x 1'
+'28','ABC x Sport','2023-09-15T21:30','0 x 1'
+'28','Criciúma x Mirassol','2023-09-16T15:30','2 x 1'
+'28','Botafogo-SP x Atlético-GO','2023-09-16T17:00','1 x 0'
+'28','Sampaio Corrêa x Chapecoense','2023-09-16T17:00','2 x 0'
+'28','Juventude x CRB','2023-09-16T18:00','3 x 1'
+'28','Guarani x Tombense','2023-09-17T15:45','3 x 0'
+'28','Vitória x Avaí','2023-09-17T18:00','3 x 0'
+'28','Novorizontino x Ceará','2023-09-18T21:00','4 x 1'
+'27','Chapecoense x Guarani','2023-09-05T21:30','0 x 1'
+'27','Ceará x Londrina','2023-09-06T21:30','3 x 1'
+'27','Tombense x ABC','2023-09-07T18:30','3 x 0'
+'27','Ituano x Vila Nova','2023-09-08T18:00','1 x 2'
+'27','Ponte Preta x Sampaio Corrêa','2023-09-09T17:00','0 x 0'
+'27','Mirassol x Botafogo-SP','2023-09-09T20:30','1 x 0'
+'27','Sport x Criciúma','2023-09-09T20:45','3 x 3'
+'27','Atlético-GO x Juventude','2023-09-10T15:45','3 x 0'
+'27','CRB x Vitória','2023-09-10T18:00','6 x 0'
+'27','Avaí x Novorizontino','2023-09-11T20:30','1 x 0'
+'26','Novorizontino x Ituano','2023-08-30T19:00','2 x 0'
+'26','Juventude x Chapecoense','2023-08-31T21:30','0 x 0'
+'26','Vitória x Mirassol','2023-09-01T19:15','0 x 0'
+'26','Londrina x Tombense','2023-09-01T21:30','1 x 1'
+'26','Avaí x Atlético-GO','2023-09-02T15:30','0 x 2'
+'26','Ceará x Criciúma','2023-09-02T17:00','1 x 0'
+'26','ABC x Sampaio Corrêa','2023-09-02T17:00','1 x 1'
+'26','Guarani x Ponte Preta','2023-09-02T18:00','1 x 0'
+'26','Vila Nova x CRB','2023-09-03T15:45','0 x 1'
+'26','Botafogo-SP x Sport','2023-09-03T18:00','1 x 1'
+'25','Mirassol x Juventude','2023-08-22T19:00','0 x 1'
+'25','Criciúma x Vila Nova','2023-08-22T21:30','1 x 0'
+'25','Ponte Preta x Londrina','2023-08-25T19:00','1 x 0'
+'25','Sport x Ituano','2023-08-25T21:30','1 x 2'
+'25','Sampaio Corrêa x Guarani','2023-08-26T17:00','1 x 1'
+'25','Tombense x Ceará','2023-08-26T17:00','2 x 2'
+'25','CRB x Novorizontino','2023-08-26T18:00','1 x 0'
+'25','Chapecoense x Avaí','2023-08-27T15:45','0 x 0'
+'25','Atlético-GO x Vitória','2023-08-27T18:00','0 x 0'
+'25','Botafogo-SP x ABC','2023-08-28T20:00','0 x 0'
+'24','Londrina x Atlético-GO','2023-08-17T19:00','0 x 2'
+'24','Vila Nova x Mirassol','2023-08-17T21:30','2 x 0'
+'24','Vitória x Botafogo-SP','2023-08-18T19:00','2 x 0'
+'24','Guarani x Sport','2023-08-18T21:30','3 x 1'
+'24','Avaí x Tombense','2023-08-19T15:30','4 x 2'
+'24','Ituano x Criciúma','2023-08-19T17:00','3 x 0'
+'24','ABC x CRB','2023-08-19T17:00','1 x 2'
+'24','Juventude x Sampaio Corrêa','2023-08-19T18:00','0 x 0'
+'24','Novorizontino x Chapecoense','2023-08-20T15:45','1 x 2'
+'24','Ceará x Ponte Preta','2023-08-20T18:00','1 x 1'
+'23','Novorizontino x Mirassol','2023-08-11T19:00','2 x 1'
+'23','Tombense x Sport','2023-08-11T21:30','0 x 0'
+'23','Criciúma x Londrina','2023-08-12T15:30','2 x 0'
+'23','Botafogo-SP x Ponte Preta','2023-08-12T17:00','0 x 0'
+'23','Sampaio Corrêa x CRB','2023-08-12T17:00','1 x 1'
+'23','Vila Nova x Avaí','2023-08-12T18:00','1 x 1'
+'23','Chapecoense x Atlético-GO','2023-08-13T11:00','0 x 1'
+'23','Guarani x Juventude','2023-08-13T15:45','0 x 1'
+'23','Vitória x Ceará','2023-08-13T18:00','1 x 0'
+'23','ABC x Ituano','2023-08-14T20:00','1 x 1'
+'22','Mirassol x Sampaio Corrêa','2023-08-04T21:30','0 x 0'
+'22','Avaí x Criciúma','2023-08-05T15:30','1 x 0'
+'22','Ituano x Guarani','2023-08-05T17:00','1 x 1'
+'22','CRB x Botafogo-SP','2023-08-05T17:00','0 x 0'
+'22','Sport x Novorizontino','2023-08-05T18:00','1 x 0'
+'22','Ponte Preta x Chapecoense','2023-08-06T15:30','1 x 0'
+'22','Ceará x ABC','2023-08-06T18:00','1 x 0'
+'22','Juventude x Vila Nova','2023-08-07T18:00','0 x 2'
+'22','Atlético-GO x Tombense','2023-08-07T20:00','3 x 2'
+'22','Londrina x Vitória','2023-08-07T20:00','2 x 0'
+'21','Mirassol x Avaí','2023-08-01T19:00','2 x 2'
+'21','Sampaio Corrêa x Botafogo-SP','2023-08-01T19:00','0 x 0'
+'21','CRB x Atlético-GO','2023-08-01T21:30','2 x 1'
+'21','Criciúma x Ponte Preta','2023-08-02T19:00','2 x 1'
+'21','Ituano x Tombense','2023-08-02T19:00','1 x 0'
+'21','Guarani x Ceará','2023-08-02T21:30','0 x 0'
+'21','Vila Nova x Sport','2023-08-02T21:30','0 x 1'
+'21','Vitória x ABC','2023-08-02T21:30','2 x 0'
+'21','Juventude x Novorizontino','2023-08-02T21:30','1 x 0'
+'21','Londrina x Chapecoense','2023-08-02T21:30','1 x 1'
+'20','Ceará x Ituano','2023-07-28T19:00','1 x 1'
+'20','Sport x CRB','2023-07-28T21:30','2 x 0'
+'20','Chapecoense x Mirassol','2023-07-29T11:00','0 x 1'
+'20','Botafogo-SP x Juventude','2023-07-29T15:30','0 x 2'
+'20','Avaí x Guarani','2023-07-29T17:00','1 x 2'
+'20','ABC x Londrina','2023-07-29T17:00','0 x 0'
+'20','Atlético-GO x Sampaio Corrêa','2023-07-29T18:00','2 x 2'
+'20','Tombense x Criciúma','2023-07-30T11:00','2 x 2'
+'20','Novorizontino x Vila Nova','2023-07-30T15:30','3 x 1'
+'20','Ponte Preta x Vitória','2023-07-30T18:00','2 x 2'
+'19','CRB x Ponte Preta','2023-07-21T19:00','1 x 0'
+'19','Mirassol x Tombense','2023-07-22T15:30','2 x 0'
+'19','Vila Nova x ABC','2023-07-22T17:00','1 x 1'
+'19','Criciúma x Novorizontino','2023-07-22T17:00','0 x 1'
+'19','Ituano x Avaí','2023-07-22T18:00','0 x 1'
+'19','Guarani x Atlético-GO','2023-07-23T11:00','1 x 0'
+'19','Juventude x Ceará','2023-07-23T15:30','1 x 0'
+'19','Sampaio Corrêa x Sport','2023-07-23T18:00','1 x 2'
+'19','Vitória x Chapecoense','2023-07-24T19:00','1 x 0'
+'19','Londrina x Botafogo-SP','2023-07-24T19:00','1 x 2'
+'18','Botafogo-SP x Criciúma','2023-07-17T20:00','1 x 0'
+'18','Tombense x CRB','2023-07-18T18:00','2 x 1'
+'18','Chapecoense x Ituano','2023-07-18T19:00','1 x 0'
+'18','Ponte Preta x Juventude','2023-07-18T21:30','0 x 0'
+'18','Atlético-GO x Mirassol','2023-07-19T19:00','2 x 2'
+'18','Novorizontino x Londrina','2023-07-19T19:00','3 x 0'
+'18','Avaí x Sampaio Corrêa','2023-07-19T21:30','2 x 0'
+'18','Sport x Vitória','2023-07-19T21:30','1 x 2'
+'18','Ceará x Vila Nova','2023-07-19T21:30','1 x 0'
+'18','ABC x Guarani','2023-07-19T21:30','0 x 1'
+'17','Criciúma x Guarani','2023-07-13T20:00','1 x 1'
+'17','Atlético-GO x Sport','2023-07-14T21:30','3 x 1'
+'17','Sampaio Corrêa x Ituano','2023-07-14T21:30','0 x 0'
+'17','Juventude x ABC','2023-07-15T11:00','1 x 1'
+'17','Ponte Preta x Tombense','2023-07-15T17:00','0 x 1'
+'17','Londrina x Vila Nova','2023-07-15T17:00','1 x 0'
+'17','Mirassol x Ceará','2023-07-16T15:30','1 x 1'
+'17','Vitória x Novorizontino','2023-07-16T18:00','2 x 1'
+'17','CRB x Avaí','2023-08-23T19:00','1 x 1'
+'17','Botafogo-SP x Chapecoense','2023-08-23T21:30','1 x 2'
+'16','Novorizontino x Atlético-GO','2023-07-07T19:00','2 x 2'
+'16','Ceará x Botafogo-SP','2023-07-07T21:30','3 x 0'
+'16','Guarani x Londrina','2023-07-08T11:00','2 x 1'
+'16','ABC x Criciúma','2023-07-08T15:30','0 x 1'
+'16','Avaí x Ponte Preta','2023-07-08T17:00','0 x 1'
+'16','Ituano x Juventude','2023-07-08T17:00','1 x 1'
+'16','Tombense x Sampaio Corrêa','2023-07-08T18:00','0 x 1'
+'16','Chapecoense x CRB','2023-07-09T15:30','2 x 1'
+'16','Sport x Mirassol','2023-07-09T18:00','0 x 0'
+'16','Vila Nova x Vitória','2023-07-10T20:00','1 x 0'
+'15','Tombense x Chapecoense','2023-06-30T21:30','4 x 2'
+'15','Atlético-GO x Vila Nova','2023-07-01T16:00','1 x 1'
+'15','Avaí x ABC','2023-07-01T17:00','0 x 2'
+'15','Sampaio Corrêa x Criciúma','2023-07-01T17:00','0 x 2'
+'15','CRB x Londrina','2023-07-01T18:15','2 x 1'
+'15','Juventude x Vitória','2023-07-02T15:30','1 x 0'
+'15','Sport x Ceará','2023-07-02T18:00','2 x 0'
+'15','Ponte Preta x Novorizontino','2023-07-02T20:30','1 x 0'
+'15','Mirassol x Ituano','2023-07-03T18:00','0 x 1'
+'15','Botafogo-SP x Guarani','2023-07-03T20:15','1 x 0'
+'14','Criciúma x CRB','2023-06-27T19:00','2 x 1'
+'14','Chapecoense x Sport','2023-06-27T19:00','1 x 1'
+'14','Vila Nova x Tombense','2023-06-27T21:30','1 x 0'
+'14','Novorizontino x Botafogo-SP','2023-06-27T21:30','0 x 1'
+'14','Ceará x Avaí','2023-06-28T19:00','0 x 0'
+'14','ABC x Atlético-GO','2023-06-28T19:00','1 x 1'
+'14','Guarani x Mirassol','2023-06-28T21:30','2 x 1'
+'14','Ituano x Ponte Preta','2023-06-28T21:30','0 x 1'
+'14','Vitória x Sampaio Corrêa','2023-06-28T21:30','2 x 1'
+'14','Londrina x Juventude','2023-06-28T21:30','1 x 2'
+'13','CRB x Ituano','2023-06-21T19:00','2 x 2'
+'13','Sport x Juventude','2023-06-22T21:30','3 x 0'
+'13','Atlético-GO x Ponte Preta','2023-06-23T19:00','1 x 0'
+'13','Botafogo-SP x Vila Nova','2023-06-24T11:00','0 x 3'
+'13','Avaí x Londrina','2023-06-24T16:00','0 x 0'
+'13','Chapecoense x Criciúma','2023-06-24T17:00','1 x 1'
+'13','Tombense x Novorizontino','2023-06-24T18:15','1 x 2'
+'13','Mirassol x ABC','2023-06-25T11:00','3 x 2'
+'13','Sampaio Corrêa x Ceará','2023-06-25T15:30','1 x 1'
+'13','Guarani x Vitória','2023-06-25T18:00','2 x 0'
+'12','ABC x Chapecoense','2023-06-09T21:30','1 x 1'
+'12','Vila Nova x Guarani','2023-06-10T16:00','0 x 0'
+'12','Ituano x Atlético-GO','2023-06-10T17:00','1 x 1'
+'12','Novorizontino x Sampaio Corrêa','2023-06-10T17:00','1 x 0'
+'12','Ceará x CRB','2023-06-10T19:30','1 x 3'
+'12','Ponte Preta x Sport','2023-06-11T11:00','1 x 1'
+'12','Londrina x Mirassol','2023-06-11T11:00','1 x 2'
+'12','Avaí x Botafogo-SP','2023-06-11T15:30','1 x 1'
+'12','Vitória x Criciúma','2023-06-11T18:00','0 x 1'
+'12','Juventude x Tombense','2023-06-11T18:15','1 x 2'
+'11','Ponte Preta x ABC','2023-06-06T19:00','0 x 0'
+'11','Chapecoense x Vila Nova','2023-06-06T19:00','0 x 1'
+'11','Tombense x Vitória','2023-06-06T19:00','1 x 2'
+'11','Atlético-GO x Ceará','2023-06-06T21:30','0 x 3'
+'11','Botafogo-SP x Ituano','2023-06-06T21:30','0 x 2'
+'11','Novorizontino x Guarani','2023-06-07T19:00','1 x 0'
+'11','Sport x Avaí','2023-06-07T19:00','2 x 1'
+'11','Sampaio Corrêa x Londrina','2023-06-07T19:00','2 x 0'
+'11','CRB x Mirassol','2023-06-07T21:30','2 x 0'
+'11','Criciúma x Juventude','2023-06-08T16:00','0 x 1'
+'10','Botafogo-SP x Tombense','2023-06-02T19:00','0 x 0'
+'10','Ceará x Chapecoense','2023-06-02T19:00','2 x 0'
+'10','Criciúma x Atlético-GO','2023-06-02T21:30','3 x 0'
+'10','Vitória x Ituano','2023-06-02T21:30','3 x 0'
+'10','Juventude x Avaí','2023-06-03T16:00','3 x 2'
+'10','Mirassol x Ponte Preta','2023-06-03T17:00','1 x 0'
+'10','ABC x Novorizontino','2023-06-03T17:00','0 x 1'
+'10','Vila Nova x Sampaio Corrêa','2023-06-03T19:00','3 x 0'
+'10','Guarani x CRB','2023-06-04T15:30','0 x 1'
+'10','Londrina x Sport','2023-06-04T18:00','1 x 2'
+'9','Ituano x Londrina','2023-05-27T17:00','3 x 1'
+'9','CRB x Juventude','2023-05-27T17:00','1 x 2'
+'9','Avaí x Vitória','2023-05-27T17:30','1 x 1'
+'9','Atlético-GO x Botafogo-SP','2023-05-27T18:00','1 x 1'
+'9','Ponte Preta x Vila Nova','2023-05-28T11:00','1 x 0'
+'9','Mirassol x Criciúma','2023-05-28T15:30','1 x 0'
+'9','Ceará x Novorizontino','2023-05-28T15:30','0 x 3'
+'9','Sport x ABC','2023-05-28T18:00','4 x 1'
+'9','Tombense x Guarani','2023-05-28T18:15','1 x 1'
+'9','Chapecoense x Sampaio Corrêa','2023-05-29T20:00','0 x 1'
+'8','Botafogo-SP x Mirassol','2023-05-23T19:00','1 x 0'
+'8','Novorizontino x Avaí','2023-05-23T21:30','2 x 0'
+'8','ABC x Tombense','2023-05-23T21:30','1 x 0'
+'8','Vila Nova x Ituano','2023-05-24T19:00','1 x 0'
+'8','Vitória x CRB','2023-05-24T19:00','1 x 0'
+'8','Juventude x Atlético-GO','2023-05-24T19:00','3 x 0'
+'8','Londrina x Ceará','2023-05-24T19:00','1 x 3'
+'8','Guarani x Chapecoense','2023-05-24T21:15','3 x 3'
+'8','Criciúma x Sport','2023-05-24T21:30','1 x 0'
+'8','Sampaio Corrêa x Ponte Preta','2023-05-24T21:30','0 x 0'
+'7','Mirassol x Vitória','2023-05-19T19:00','2 x 0'
+'7','Tombense x Londrina','2023-05-19T19:00','0 x 2'
+'7','Atlético-GO x Avaí','2023-05-19T21:30','0 x 0'
+'7','Sport x Botafogo-SP','2023-05-20T16:00','3 x 0'
+'7','Ituano x Novorizontino','2023-05-20T17:00','0 x 2'
+'7','Sampaio Corrêa x ABC','2023-05-20T17:00','1 x 0'
+'7','Chapecoense x Juventude','2023-05-21T11:00','0 x 2'
+'7','Criciúma x Ceará','2023-05-21T15:30','1 x 2'
+'7','Ponte Preta x Guarani','2023-05-21T18:00','1 x 1'
+'7','CRB x Vila Nova','2023-05-21T18:15','0 x 3'
+'6','Vila Nova x Criciúma','2023-05-12T19:00','0 x 0'
+'6','Avaí x Chapecoense','2023-05-12T21:30','1 x 4'
+'6','Juventude x Mirassol','2023-05-13T16:00','0 x 1'
+'6','Guarani x Sampaio Corrêa','2023-05-13T17:00','2 x 0'
+'6','Novorizontino x CRB','2023-05-13T17:00','0 x 1'
+'6','Ceará x Tombense','2023-05-13T18:15','2 x 0'
+'6','Londrina x Ponte Preta','2023-05-14T15:30','3 x 0'
+'6','Vitória x Atlético-GO','2023-05-14T18:00','2 x 3'
+'6','ABC x Botafogo-SP','2023-05-14T18:00','1 x 2'
+'6','Ituano x Sport','2023-05-14T20:30','1 x 1'
+'5','Botafogo-SP x Vitória','2023-05-05T21:30','0 x 3'
+'5','Criciúma x Ituano','2023-05-06T16:00','2 x 1'
+'5','Mirassol x Vila Nova','2023-05-06T18:15','1 x 1'
+'5','Sampaio Corrêa x Juventude','2023-05-06T18:15','2 x 1'
+'5','Tombense x Avaí','2023-05-06T18:15','0 x 1'
+'5','Chapecoense x Novorizontino','2023-05-06T20:30','1 x 1'
+'5','CRB x ABC','2023-05-06T20:30','1 x 1'
+'5','Ponte Preta x Ceará','2023-05-07T11:00','0 x 0'
+'5','Sport x Guarani','2023-05-07T19:00','2 x 0'
+'5','Atlético-GO x Londrina','2023-05-08T20:00','2 x 1'
+'4','Londrina x Criciúma','2023-05-01T16:00','1 x 1'
+'4','Ponte Preta x Botafogo-SP','2023-05-02T19:00','2 x 0'
+'4','CRB x Sampaio Corrêa','2023-05-02T19:00','0 x 0'
+'4','Atlético-GO x Chapecoense','2023-05-02T21:30','2 x 1'
+'4','Ituano x ABC','2023-05-03T19:00','3 x 0'
+'4','Mirassol x Novorizontino','2023-05-03T19:00','0 x 2'
+'4','Juventude x Guarani','2023-05-03T19:00','1 x 0'
+'4','Avaí x Vila Nova','2023-05-03T21:15','0 x 3'
+'4','Ceará x Vitória','2023-05-10T19:00','0 x 2'
+'4','Sport x Tombense','2023-05-10T21:30','3 x 2'
+'3','Criciúma x Avaí','2023-04-28T19:00','1 x 0'
+'3','Vitória x Londrina','2023-04-28T19:00','2 x 0'
+'3','Guarani x Ituano','2023-04-28T21:30','1 x 0'
+'3','Sampaio Corrêa x Mirassol','2023-04-29T16:00','1 x 3'
+'3','Botafogo-SP x CRB','2023-04-29T17:00','2 x 0'
+'3','Chapecoense x Ponte Preta','2023-04-29T17:00','1 x 1'
+'3','Tombense x Atlético-GO','2023-04-29T18:15','1 x 1'
+'3','Novorizontino x Sport','2023-04-30T15:30','0 x 0'
+'3','ABC x Ceará','2023-04-30T18:00','1 x 2'
+'3','Vila Nova x Juventude','2023-04-30T18:15','1 x 0'
+'2','Atlético-GO x CRB','2023-04-21T16:30','2 x 1'
+'2','Botafogo-SP x Sampaio Corrêa','2023-04-21T19:00','1 x 0'
+'2','Ponte Preta x Criciúma','2023-04-21T21:30','1 x 2'
+'2','Tombense x Ituano','2023-04-22T11:00','3 x 0'
+'2','Avaí x Mirassol','2023-04-22T16:00','1 x 0'
+'2','Novorizontino x Juventude','2023-04-22T17:00','1 x 0'
+'2','Ceará x Guarani','2023-04-22T18:15','0 x 3'
+'2','Chapecoense x Londrina','2023-04-23T15:30','3 x 0'
+'2','ABC x Vitória','2023-04-23T18:00','0 x 3'
+'2','Sport x Vila Nova','2023-06-18T18:00','1 x 0'
+'1','Guarani x Avaí','2023-04-14T19:00','4 x 1'
+'1','Ituano x Ceará','2023-04-14T21:30','2 x 0'
+'1','Vila Nova x Novorizontino','2023-04-15T16:00','2 x 1'
+'1','Mirassol x Chapecoense','2023-04-15T17:00','1 x 0'
+'1','Sampaio Corrêa x Atlético-GO','2023-04-15T17:00','3 x 3'
+'1','Juventude x Botafogo-SP','2023-04-15T18:15','1 x 2'
+'1','Criciúma x Tombense','2023-04-16T11:00','2 x 0'
+'1','Londrina x ABC','2023-04-16T15:30','1 x 0'
+'1','Vitória x Ponte Preta','2023-04-16T18:00','3 x 0'
+'1','CRB x Sport','2023-07-05T19:00','2 x 0'
