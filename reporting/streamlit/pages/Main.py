@@ -1,5 +1,7 @@
 import pandas as pd
 import streamlit as st
+import os, sys
+sys.path.append(os.getcwd())
 from transformers.pandas.transformer import transform_data
 
 st.set_page_config(page_title="Tabela", page_icon="", layout="wide")
