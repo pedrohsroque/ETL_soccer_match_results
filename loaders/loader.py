@@ -46,6 +46,7 @@ class Loader():
                     values ( {line} );
                 """
                 self.cursor.execute(insert_query)
+        print(f"Dados inseridos na tabela {schema}.{table_name}")
 
 if __name__ == '__main__':
     loader = Loader(db_credentials)
