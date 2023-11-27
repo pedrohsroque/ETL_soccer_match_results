@@ -1,0 +1,9 @@
+version: 2
+
+sources:
+  - name: raw
+    database: soccer_matches
+    schema: raw
+    tables:
+      - name: campeonato_brasileiro_serie_a_2023
+      - name: campeonato_brasileiro_serie_b_2023

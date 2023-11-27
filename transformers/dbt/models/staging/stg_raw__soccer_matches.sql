@@ -23,9 +23,13 @@ source as
          ) as match_id,
         to_timestamp(date_time, 'YYYY-MM-DD/THH24:MI') as date_time,
         teams,
-        case when result = '' then null else result end as result
+        case
+            when result = '' then null
+            when result = 'None x None' then null
+            else result
+        end as result
 
-    from {{ source( 'raw', 'brasileirao_serie_a' ) }}
+    from {{ source( 'raw', 'campeonato_brasileiro_serie_a_2023' ) }}
 
 )
 
