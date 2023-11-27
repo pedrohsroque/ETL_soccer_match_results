@@ -3,15 +3,23 @@ from extractors.requests_extractor import RequestsExtractor
 from loaders.loader import Loader
 from config.config import db_credentials
 
+def is_data_incomplete(filename: str) -> bool:
+    with open(f"data/{filename}.csv", "r", encoding='utf-8') as f:
+        return any(['None x None' in linha for linha in f.readlines()])
+
 championships_list = []
 
 extract_a = input("Extrair dados Série A? S/n ")
 if extract_a == "S":
-    championships_list.append("Campeonato Brasileiro Série A 2023")
+    championship_name = "Campeonato Brasileiro Série A 2023"
+    if is_data_incomplete(championship_name):
+        championships_list.append(championship_name)
 
 extract_b = input("Extrair dados Série B? S/n ")
 if extract_b == "S":
-    championships_list.append("Campeonato Brasileiro Série B 2023")
+    championship_name = "Campeonato Brasileiro Série B 2023"
+    if is_data_incomplete(championship_name):
+        championships_list.append(championship_name)
 
 extractor = RequestsExtractor()
 for championship in championships_list:
