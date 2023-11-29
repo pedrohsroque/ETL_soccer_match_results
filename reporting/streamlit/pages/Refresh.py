@@ -18,7 +18,7 @@ championships_list = []
 refresh_serie_a = st.button("Atualizar Série A 2023")
 refresh_serie_b = st.button("Atualizar Série B 2023")
 refresh_password = st.text_input("Senha para atualizar:", type="password")
-refresh_condition = refresh_password == os.getenv("refresh_password")
+refresh_condition = refresh_password == st.secrets["refresh_password"]
 
 if not st.session_state.updating_data and refresh_condition:
     print("Aqui")
